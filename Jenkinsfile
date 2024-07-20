@@ -10,7 +10,7 @@ pipeline {
         IMAGE_TAG="latest"
         REPOSITORY_URI = "058087963754.dkr.ecr.us-east-1.amazonaws.com/devopstest"
         GIT_CREDENTIAL = "test_git_credential"
-        GIT_URL = 'https://github.com/ChoiSeungBeom/springproject'
+        GIT_URL = 'https://github.com/ChoiSeungBeom/springproject.git'
     }
    
     stages {
