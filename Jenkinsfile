@@ -45,7 +45,7 @@ pipeline {
 
         stage('Building code'){
             steps {
-                sh "gradle clean package"
+                sh "./gradlew clean build"
             }
         }
     // Building Docker images
