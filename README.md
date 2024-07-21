@@ -1,11 +1,2 @@
 ㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㄴㅁㅇㄴㅁㅇㄹㄴㅁ
-dsadsa
-dsadas
-dsadsadasfasfgsafsa
-dsadsadsa
-dsadas
-dsadsafa
-ㅇㄴㅁㅇㅁㄴㅇ
-dsad
-dsada
-dsadas
+ds
